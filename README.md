@@ -20,7 +20,6 @@ The following **optional** features are implemented:
 - [ ] Implement orientation responsivity
     - App should neatly arrange data in both landscape and portrait mode
 - [X] Implement Glide to display placeholder graphics during loading
-    - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
 
 
 ## Video Walkthrough
